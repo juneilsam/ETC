@@ -1,6 +1,7 @@
 # 필요한 라이브러리
 import os
 from selenium import webdriver
+from selenium.webdriver.common.alert import Alert
 
 # https://stackoverflow.com/questions/7674790/bundling-data-files-with-pyinstaller-onefile
 # 절대경로를 상대경로로 바꿔주는 함수
